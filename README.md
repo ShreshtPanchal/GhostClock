@@ -1,7 +1,4 @@
 # Ghost Clock 
-<p align="center">
-<img width="100" alt="image" src="https://github.com/user-attachments/assets/06035d11-088e-4f5f-a5d7-4b3a9f602201" />
-</p>
 
 A minimal and modern digital clock designed for dark themes. Built with pure HTML, CSS, and JavaScript. Smooth animations, subtle grayscale accents, and a clean, distraction-free layout.
 
