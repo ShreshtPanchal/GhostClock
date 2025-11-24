@@ -1,42 +1,33 @@
-# Digital Clock
+# Ghost Clock
 
-A minimal, clean digital clock made for dark themes. Built with pure HTML, CSS, and JavaScript — fast, smooth, and dependency-free.
+A minimal and modern digital clock designed for dark themes. Built with pure HTML, CSS, and JavaScript. Smooth animations, subtle grayscale accents, and a clean, distraction-free layout.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000" />
+## Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3cb69701-68e8-4829-8bf6-db69157d169d"
+       alt="Ghost Clock Preview"
+       width="850"
+       style="border-radius:12px;">
 </p>
 
 ## Features
 
-* 12-hour format with AM/PM
-* Live date display
-* Smooth digit fade animation
-* Soft blinking colon
+* 12-hour time with AM/PM
+* Live date
+* Soft fade + blinking colon
 * Minimal grayscale color picker
-* Pure black, OLED-friendly UI
+* OLED-friendly pure black background
 * Fully responsive
-* No libraries, no bloat
+* No dependencies
 
-## Preview
-<img width="1600" height="532" alt="image" src="https://github.com/user-attachments/assets/3cb69701-68e8-4829-8bf6-db69157d169d" />
+## Usage
 
-## How to Use
+Open `index.html` in a browser or deploy to Vercel.
 
-Clone the repo and open `index.html`:
+## Tech
 
-```bash
-git clone <repo-url>
-cd digital-clock
-open index.html
-```
-
-## Tech Stack
-
-* HTML
-* CSS
-* JavaScript (Vanilla)
+HTML • CSS • JavaScript (Vanilla)
 
 ## Credits
 
